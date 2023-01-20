@@ -41,7 +41,7 @@
                     <plugin>
                    <groupId>org.apache.maven.plugins</groupId>
                    <artifactId>maven-war-plugin</artifactId>
-                   <version>4.0.0</version>
+                   <version>3.3.2</version>
                    <configuration>
                        <failOnMissingWebXml>false</failOnMissingWebXml>
                    </configuration>
@@ -193,7 +193,7 @@
       <dependency>
         <groupId>org.hamcrest</groupId>
         <artifactId>hamcrest-core</artifactId>
-        <version>3.1.0-incubating</version>
+        <version>1.2.1</version>
         <scope>test</scope>
       </dependency>
 
